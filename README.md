@@ -1,7 +1,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="200"  alt="NodeJs logo" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="100"  alt="Typescript logo" />
 
-![example workflow](https://github.com/susomejias/node-ts-skeleton/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/susomejias/node-ts-skeleton/actions/workflows/ci.yml/badge.svg)](https://github.com/susomejias/node-ts-skeleton/actions/workflows/ci.yml)
 
 ## 🔧 Configurations included
 
