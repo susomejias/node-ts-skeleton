@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "sourceMap": true,
+    "outDir": "./build",
+    "strictNullChecks": false,
+    "skipLibCheck": true
+  },
+  "include": [
+    "**/*.js",
+    "**/*.ts",
+    "**/*.test.ts"
+  ]
+}
